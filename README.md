@@ -7,8 +7,6 @@ Dies ist ein Projekt für eine moderne und responsive Landing Page für die fikt
 Sie können die Live-Version dieser Website hier ansehen:
 **[https://YOUR-LINK-HERE.github.io/lago-furniture-website/](https://YOUR-LINK-HERE.github.io/lago-furniture-website/)**
 
-![Screenshot der LAGO Website](/LAGO-website.jpg)
-
 ---
 
 ## 🌟 Funktionen (Features)
