@@ -5,7 +5,7 @@ Dies ist ein Projekt für eine moderne und responsive Landing Page für die fikt
 ## 🚀 Live-Demo
 
 Sie können die Live-Version dieser Website hier ansehen:
-**[https://YOUR-LINK-HERE.github.io/lago-furniture-website/](https://abolfazl-edalati.github.io/CV-web/)**
+**Live Demo(https://abolfazl-edalati.github.io/CV-web/)**
 
 ---
 
